@@ -1,4 +1,4 @@
-# Data-structure
+program 2
 # Stack ADT using Singly Linked List
 
 class Node:
